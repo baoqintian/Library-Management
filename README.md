@@ -6,7 +6,6 @@
 JQuery主要实现控制等待页面并进行跳转，还有获取input内的数据是否
 为空。</br>
 一建立数据库（数据库名mydb1表名为library）
--------
 </br>
 1.ID随机生成(var,主键)</br>
 2.书籍名称(var)</br>
@@ -15,11 +14,9 @@ JQuery主要实现控制等待页面并进行跳转，还有获取input内的数
 5.零售价(var)</br>
 6.库存(var)</br>
 二建立Bean、Dao、Page、Service、Servlet包
-------
 </br>
 1.导入c3p0-0.95.2.jar、mchage-commons-java-0.2.11.jar、mysql-connector-java-5.0.8-bin、commons-dbutils-1.6.jar
 三、在这个项目中学习到了
----------
 </br>
 1.""和null是有区别
 null是空对象，""是空字符串
