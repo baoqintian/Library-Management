@@ -1,5 +1,6 @@
 图书馆管理系统。
 ======
+</br>
 基于JSP+Servlet+Mysql+JQuery（MVC）
 实现基本的增删查修、还有分页。</br>
 JQuery主要实现控制等待页面并进行跳转，还有获取input内的数据是否
