@@ -16,6 +16,7 @@ JQuery主要实现控制等待页面并进行跳转，还有获取input内的数
 ![数据库](https://raw.githubusercontent.com/wiki/baoqintian/Library-Management/a.PNG)
 </br>
 二建立Bean、Dao、Page、Service、Servlet包
+![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
 </br>
 1.导入c3p0-0.95.2.jar、mchage-commons-java-0.2.11.jar、mysql-connector-java-5.0.8-bin、commons-dbutils-1.6.jar
 三、在这个项目中学习到了
